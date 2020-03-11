@@ -1,6 +1,6 @@
 # robofriends
-Tutorial for udemy course - React
-To run the project:
+Practicing React by using exclusively hooks / functional components
+-> Redux hooks as well on 
 
 1. Clone this repo
 2. Run `npm install`
